@@ -1,5 +1,5 @@
 # PODNAME: Moose::Cookbook
-# ABSTRACT: How to cook a Moose
+# ABSTRACT: How to cook for a Moose
 
 =pod
 
